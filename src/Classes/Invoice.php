@@ -8,7 +8,7 @@
   * file that was distributed with this source code.
   */
 
-namespace eclubaddons\invoice\src\Classes;
+namespace eclubaddons\invoice\Classes;
 
 use Carbon\Carbon;
 use eclubaddons\invoice\src\Traits\Setters;
