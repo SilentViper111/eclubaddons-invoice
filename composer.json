@@ -10,10 +10,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "^8.0@dev",
-        "illuminate/view": "^8.0@dev",
-        "nesbot/carbon": "^2.0@dev",
-        "dompdf/dompdf": "dev-master"
+        "illuminate/support": "^5.0|^6.0",
+        "illuminate/view": "^5.0|^6.0",
+        "nesbot/carbon": ">1.22",
+        "dompdf/dompdf": "^0.8"
     },
     "autoload": {
         "psr-4": {
