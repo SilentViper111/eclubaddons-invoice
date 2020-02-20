@@ -1,0 +1,23 @@
+{
+    "name": "eclubaddons/invoice",
+    "description": "An invoice generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jernej Zuraj",
+            "email": "jernej.zuraj@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "^8.0@dev",
+        "illuminate/view": "^8.0@dev",
+        "nesbot/carbon": "^2.0@dev",
+        "dompdf/dompdf": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "EclubAddons\\Invoice\\": "src/"
+        }
+    }
+}
