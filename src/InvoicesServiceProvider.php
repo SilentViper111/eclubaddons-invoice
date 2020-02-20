@@ -8,7 +8,7 @@
   * file that was distributed with this source code.
   */
 
-namespace eclubaddons\invoice;
+namespace eclubaddons\invoice\src;
 
 use Illuminate\Support\ServiceProvider;
 

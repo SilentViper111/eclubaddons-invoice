@@ -8,10 +8,10 @@
   * file that was distributed with this source code.
   */
 
-namespace eclubaddons\invoice\Classes;
+namespace eclubaddons\invoice\src\Classes;
 
 use Carbon\Carbon;
-use eclubaddons\invoice\Traits\Setters;
+use eclubaddons\invoice\src\Traits\Setters;
 use Illuminate\Support\Collection;
 use Storage;
 
