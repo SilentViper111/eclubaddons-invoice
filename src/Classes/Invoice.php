@@ -11,7 +11,7 @@
 namespace eclubaddons\invoice\Classes;
 
 use Carbon\Carbon;
-use eclubaddons\invoice\src\Traits\Setters;
+use eclubaddons\invoice\Traits\Setters;
 use Illuminate\Support\Collection;
 use Storage;
 
